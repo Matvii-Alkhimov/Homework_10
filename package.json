@@ -1,0 +1,28 @@
+{
+	"name": "Homework_10",
+	"version": "1.0.0",
+	"description": "",
+	"browserslist": "> 0.5%, last 2 versions, not dead",
+	"homepage": "https://Matvii-Alkhimov.github.io/Homework_10",
+	"source": "src/index.html",
+	"scripts": {
+		"start": "parcel",
+		"build": "parcel build --public-url /Homework_10/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Matvii-Alkhimov/Homework_10.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Matvii-Alkhimov/Homework_10/issues"
+	},
+	"devDependencies": {
+		"parcel": "^2.9.3"
+	},
+	"dependencies": {
+		"validator": "^13.9.0"
+	}
+}
