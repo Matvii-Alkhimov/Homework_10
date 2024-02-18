@@ -51,7 +51,6 @@ function timerOn() {
 }
 
 function switchTimeFunction(elem, value) {
-    // elem.textContent = "";
     elem.classList.add("changed");
     setTimeout(()=>{
         elem.classList.remove("changed");
